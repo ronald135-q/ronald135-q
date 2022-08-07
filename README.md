@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Ronald Santiago ! 
-- 🔭 Atualmente estou estudando tanto front end como back end ...
-- 🌱 Nesse momento tenho focado muito em criação de APIS.
+- 🔭 Estudo tanto front quanto back; :)
+- 🌱 Nesse momento tenho construído diversas aplicações para desenvolver mais ainda minhas habilidades, além de estar em busca de uma primeira vaga na área.
 
 <div align="center">
     <a href="https://github.com/ronald135-q">
