@@ -1,7 +1,6 @@
 
 ### Olá! Eu sou o Ronald Santiago ! 
 - 🔭 Sou um desenvolvedor fullstack que começou seus estudos pelo forte interesse em criar aplicações interessantes, assim venho aprendendo mais até o momento Java, Javascript, Typescript, HTML, CSS, React.js, Node.Js, Knex, Express, SQL, MySQL, Firebase, Git, Github e em um estado de cada vez mais aprendizado, adoro regularmente saber mais sobre tecnologia e uma das coisas que  mais me agrada é poder resolver desafios, atualmente em busca de uma primeira vaga na área.
--
 
 <div align="center">
     <a href="https://github.com/ronald135-q">
